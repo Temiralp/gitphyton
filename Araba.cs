@@ -1,6 +1,3 @@
-public class B{
-
-test
+sgsgsgs
 
 
-}
